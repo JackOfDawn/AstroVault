@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d73aa33def78462960246d9bba91038e:de8d35920db24e8b8500a49835bf75fd:c728214113c4b6d8ab65eea8e5f8f54f$ -->
+<TextureAtlas imagePath="SpaceAssets.png">
+    <SubTexture name="Gradient_Space45" x="2" y="2" width="810" height="486"/>
+    <SubTexture name="Jupiter" x="1505" y="548" width="65" height="65"/>
+    <SubTexture name="Mars" x="1378" y="490" width="125" height="126"/>
+    <SubTexture name="Meteor" x="814" y="490" width="562" height="174"/>
+    <SubTexture name="Meteor1" x="1490" y="618" width="109" height="61"/>
+    <SubTexture name="Meteor2" x="1378" y="618" width="110" height="70"/>
+    <SubTexture name="Meteor3" x="1505" y="490" width="103" height="56"/>
+    <SubTexture name="Stars1" x="2" y="490" width="810" height="480" frameX="0" frameY="-6" frameWidth="810" frameHeight="486"/>
+    <SubTexture name="Stars2" x="814" y="2" width="796" height="486" frameX="0" frameY="0" frameWidth="810" frameHeight="486"/>
+</TextureAtlas>

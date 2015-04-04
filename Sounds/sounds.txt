@@ -1,0 +1,9 @@
+step1.wav + step2.wav - left and right feet hitting the ground
+
+stepfast1.wav + stepfast2.wav - left and right feet hitting the ground when the player is going faster (higher pitched)
+
+polebend.wav - sound of the pole bending after it's planted in the ground
+
+explosion.wav - the launch
+
+meteorhit.wav - sound when player is hit by a meteor

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4f2f423fc0b12a88e7c302bce2b871d3:47c7fa1aae1c3515857430f227faa586:45c12d87a47c48b57097ad6dff5e8a69$ -->
+<TextureAtlas imagePath="GroundAssets.png">
+    <SubTexture name="Cloud_1" x="2" y="1030" width="530" height="216"/>
+    <SubTexture name="Cloud_2" x="814" y="542" width="579" height="200"/>
+    <SubTexture name="Cloud_3" x="534" y="1030" width="265" height="202"/>
+    <SubTexture name="Fence" x="814" y="992" width="200" height="136"/>
+    <SubTexture name="Gradient_Sky45" x="2" y="542" width="810" height="486"/>
+    <SubTexture name="Mountain" x="2" y="2" width="1431" height="538"/>
+    <SubTexture name="Sand" x="1016" y="992" width="165" height="248"/>
+    <SubTexture name="Track" x="1288" y="744" width="84" height="166"/>
+    <SubTexture name="Water" x="1183" y="992" width="165" height="160"/>
+    <SubTexture name="vaultAndPole" x="814" y="744" width="472" height="246"/>
+</TextureAtlas>

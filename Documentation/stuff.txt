@@ -1,0 +1,17 @@
+if (_setOffset == true)
+			{
+				var _size:Point = new Point(width - _animationSeq.width, height - _animationSeq.height);
+				
+				if (_currentAnimation == "PoleRun")
+				{
+					//offsetX = _size.x * .001;
+				}
+				else if ( _currentAnimation == "Vault")
+				{
+					offsetX = _size.x * .6;
+				}
+				else
+					offsetX = _size.x;
+				offsetY = _size.y;
+				trace(offsetX, offsetY);
+			}
